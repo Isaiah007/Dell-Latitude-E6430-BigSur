@@ -23,7 +23,8 @@ For making a bootable Big Sur installer
 
 - Format a 16GB+ USB to FAT32
 - Using gibMacRecovery download Big Sur Recovery package
-- Then copy com.apple.recovery.boot folder over to the USB 
+- Then copy com.apple.recovery.boot folder over to the USB
+- Generate a SMBIOS for MacBookPro11,1 using Gen-SMBIOS
 - Then paste the above EFI to the USB
 - Then boot to the USB 
 
